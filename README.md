@@ -7,7 +7,7 @@ Welcome to my Dart learning journey! I'm currently learning the basics of the Da
 Dart is a versatile programming language designed for building fast, scalable apps. It's the language behind the popular Flutter framework, enabling developers to create cross-platform applications for mobile, web, and desktop.
 
 ## My Learning Goals
-**Understand Dart Basics**: Learn the syntax and fundamental concepts of Dart, including variables, data types, functions, and control flow.
+- **Understand Dart Basics**: Learn the syntax and fundamental concepts of Dart, including variables, data types, functions, and control flow.
 - **Build Simple Dart Applications**: Apply my knowledge by building small, practical applications and scripts.
 
 
@@ -16,5 +16,6 @@ Dart is a versatile programming language designed for building fast, scalable ap
 - **ChatGPT**: A tool that helps me understand concepts, solve problems, and get personalized guidance as I learn Dart.
 
 ## Connect with Me
-Feel free to follow my progress or share tips and resources! I'm excited to learn and grow in the Dart community.
+- Feel free to follow my progress or share tips and resources! I'm excited to learn and grow in the Dart community.
+-You can reach me via email: **yousef.ahmed.0402@gmail.com**
 
