@@ -17,5 +17,5 @@ Dart is a versatile programming language designed for building fast, scalable ap
 
 ## Connect with Me
 - Feel free to follow my progress or share tips and resources! I'm excited to learn and grow in the Dart community.
--You can reach me via email: **yousef.ahmed.0402@gmail.com**
+- You can reach me via email: **yousef.ahmed.0402@gmail.com**
 
